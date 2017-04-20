@@ -1,4 +1,7 @@
-# test coverage for  [ember-in-viewport (v2.1.1)](https://github.com/dockyard/ember-in-viewport#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-in-viewport.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-in-viewport) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-in-viewport.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-in-viewport)
+# npmtest-ember-in-viewport
+
+#### basic test coverage for  [ember-in-viewport (v2.1.1)](https://github.com/dockyard/ember-in-viewport#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-in-viewport.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-in-viewport) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-in-viewport.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-in-viewport)
+
 #### Detect if an Ember View or Component is in the viewport @ 60FPS
 
 [![NPM](https://nodei.co/npm/ember-in-viewport.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-in-viewport)
